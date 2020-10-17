@@ -1,0 +1,14 @@
+.border{
+    border:5px;
+}
+
+.headers{
+    font-size: 40px;
+    font-weight: 10px;
+    text-align: center;
+    padding: 20px;
+    color: rgba(44, 165, 44, 0.856)
+}
+.page_color{
+    background-color: rgba(182, 179, 179, 0.938)
+}
